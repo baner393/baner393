@@ -1,6 +1,6 @@
-# 🤖 袁勋 / YHH
+# 🤖 baner
 
-> AI Agent 开发者 · Full-Stack Engineer · 2027 届本科生
+> AI Agent 开发者 · Full-Stack Engineer 
 
 ---
 
@@ -51,7 +51,7 @@ ComfyUI / Stable Diffusion (20+ 工作流) · Git · FFmpeg · PowerShell · Wor
 ## 🎓 Education & Experience
 
 - **2023.09 - 2027.06** 山西财经大学 · 文化产业管理 · 本科
-- **2026.07 - 2026.08** 集策网科技 · Python 开发实习生 — 独立负责 58 同城平台客户端迁移，适配悬浮窗口交互与 AdsPower 指纹浏览器 IP 风控规避
+- **2026.07 - 2026.08** 集策网科技 · Python 开发实习生 — 独立负责 58 同城平台客户端迁移，适配悬浮窗口交互与 AdsPower 指纹浏览器 IP 风控管理
 
 ---
 
